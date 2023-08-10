@@ -7,7 +7,7 @@
     "assembler": "MSI",
     "model": "GAMING X",
     "img": "https://images.kabum.com.br/produtos/fotos/308479/placa-de-video-msi-nvidia-geforce-rtx-3050-gaming-x-8g-8gb-gddr6-rgb-dlss-ray-tracing-geforce-rtx-3050-gaming-x-8g_1644002254_m.jpg",
-    "price" : "R$ 1.599,99"
+    "price" : 1599.99
   },
   {
     "id": 1,
@@ -17,7 +17,7 @@
     "assembler": "ASUS",
     "model": "GAMING OC EDITION",
     "img": "https://images.kabum.com.br/produtos/fotos/193077/placa-de-video-asus-nvidia-geforce-rog-strix-rtx-3060-v2-gaming-oc-edition-15-gbps-12g-gddr6-dlss-ray-tracing-90yv0gc2-m0na10_1629308173_m.jpg",
-    "price" : "R$ 2.399,90"
+    "price" : 2399.90
   },
   {
     "id": 2,
@@ -26,7 +26,7 @@
     "assembler": "ZOTAC",
     "model": "TWIN EDGE",
     "img": "https://images.kabum.com.br/produtos/fotos/403365/placa-de-video-rtx-3060-ti-twin-edge-zotac-gaming-geforce-8-gb-gddr6x-led-dlss-ray-tracing-zt-a30620e-10p_1670355546_m.jpg",
-    "price" : "R$ 2.399,99"
+    "price" : 2399.99
   },
   {
     "id": 3,
@@ -35,7 +35,7 @@
     "assembler": "GIGABYTE",
     "model": "AORUS MASTER",
     "img": "https://images.kabum.com.br/produtos/fotos/130912/placa-de-video-gigabyte-nvidia-aorus-geforce-rtx-3070-master-8g-gddr6-gv-n3070aorus-m-8gd_1604691901_m.jpg",
-    "price" : "R$ 5.894,66"
+    "price" : 5894.66
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "assembler": "PNY",
     "model": "TRIPLE FAN",
     "img": "https://images.kabum.com.br/produtos/fotos/458892/placa-de-video-rtx-3070-ti-uprising-triple-fan-pny-nvidia-geforce-8-gb-gddr6x-dlss-ray-tracing-vcg3071t8tfmpb_1682694024_m.jpg",
-    "price" : "R$ 4.169,99"
+    "price" : 4169.99
   },
   {
     "id": 5,
@@ -55,7 +55,7 @@
     "assembler": "ZOTAC",
     "model": "TRINITY",
     "img": "https://images.kabum.com.br/produtos/fotos/303472/placa-de-video-zotac-gaming-nvidia-geforce-rtx-3080-trinity-12gb-gddr6x-lhr-rgb-dlss-ray-tracing-zt-a30820d-10plhr_1642766075_m.jpg",
-    "price" : "R$ 8.799,99"
+    "price" : 8799.99
   },
   {
     "id": 6,
@@ -65,7 +65,7 @@
     "assembler": "GAINWARD",
     "model": "PHOENIX",
     "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/190083/Placa-de-V-deo-Gainward-NVIDIA-GeForce-RTX-3080-TI-Phoenix-G6X-12GB-384-Bits_1689360534_m.jpg",
-    "price" : "R$ 7.499,00"
+    "price" : 7499.00
   },
   {
     "id": 7,
@@ -75,7 +75,7 @@
     "assembler": "ZOTAC",
     "model": "TRINITY",
     "img": "https://images.kabum.com.br/produtos/fotos/128562/placa-de-video-zotac-nvidia-geforce-rtx-3090-trinity-24gb-gddr6x-zt-a30900d-10p_1600975514_m.jpg",
-    "price" : "R$ 16.999,99"
+    "price" : 16999.99
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "assembler": "GALAX",
     "model": "EX GAMER",
     "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/359038/Placa-de-V-deo-Galax-NVIDIA-GeForce-RTX-3090-TI-EX-Gamer-24GB-GDDR6X-384-Bits-39IXM5MD6HEX_1688696295_m.jpg",
-    "price" : "R$ 14.990,00"
+    "price" : 14990.00
   },
   {
     "id": 9,
@@ -95,7 +95,7 @@
     "assembler": "MSI",
     "model": "VENTUS",
     "img": "https://images.kabum.com.br/produtos/fotos/461395/placa-de-video-rtx-4060-ti-ventus-msi-nvidia-geforce-8-gb-gddr6-dlss-ray-tracing_1684770175_m.jpg",
-    "price" : "R$ 2.799,99"
+    "price" : 2799.99
   },
   {
     "id": 10,
@@ -105,7 +105,7 @@
     "assembler": "PNY",
     "model": "GAMING VERTO EPIC",
     "img": "https://images.kabum.com.br/produtos/fotos/404054/placa-de-video-rtx-4070-ti-gaming-verto-epic-geforce-12gb-xlr8-rgb-triple-fan-dlss-3-vcg4070t12tfxxpb1_1672848018_m.jpg",
-    "price" : "R$ 5.879,99"
+    "price" : 5879.99
   },
   {
     "id": 11,
@@ -115,7 +115,7 @@
     "assembler": "MSI",
     "model": "GAMING X TRIO",
     "img": "https://images.kabum.com.br/produtos/fotos/397581/placa-de-video-rtx-4080-gaming-x-trio-msi-nvidia-geforce-16-gb-gddr6x-dlss-ray-tracing-geforce-rtx-4080-16gb-gaming-x-trio_1668088014_m.jpg",
-    "price" : "R$ 7.989,99"
+    "price" : 7989.99
   },
   {
     "id": 12,
@@ -125,7 +125,7 @@
     "assembler": "ASUS",
     "model": "ROG STRIX",
     "img": "https://images.kabum.com.br/produtos/fotos/387449/placa-de-video-asus-nvidia-rog-strix-rtx-4090-edition-24-gb-gddr6x-argb-dlss-ray-tracing-90yv0iw0-m0nan00_1665170163_m.jpg",
-    "price" : "R$ 17.989,99"
+    "price" : 17989.99
   }
 ]
 
