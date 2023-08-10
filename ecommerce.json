@@ -2,7 +2,7 @@
   {
     "id": 0,
     "type" : "GPU",
-    "name": "RTX 3050 GAMING X",
+    "name": "Placa de Vídeo RTX 3050 Gaming X 8G MSI NVIDIA Geforce, 8GB GDDR6, RGB, DLSS, Ray Tracing - Geforce RTX 3050 Gaming X 8G",
     "manufacturer": "Nvidia",
     "assembler": "MSI",
     "model": "GAMING X",
@@ -12,7 +12,7 @@
   {
     "id": 1,
     "type" : "GPU",
-    "name": "RTX 3060 ROG STRIX",
+    "name": "Placa de Vídeo RTX 3060 Asus O12G V2 Gaming OC Edition NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - ROG-STRIX-RTX3060-O12G-V2-GAMING",
     "manufacturer": "Nvidia",
     "assembler": "ASUS",
     "model": "GAMING OC EDITION",
@@ -21,7 +21,7 @@
   },
   {
     "id": 2,
-    "name": "RTX 3060 TI TWIN EDGE",
+    "name": "Placa de Vídeo RTX 3060 Ti Twin Edge OC ZOTAC Gaming GeForce, 8 GB GDDR6, LHR, LED Branco, Ray Tracing - ZT-A30610H-10MLHR",
     "manufacturer": "NVIDIA",
     "assembler": "ZOTAC",
     "model": "TWIN EDGE",
@@ -30,7 +30,7 @@
   },
   {
     "id": 3,
-    "name": "RTX 3070 AORUS MASTER",
+    "name": "Placa de Vídeo RTX 3070 Master Gigabyte NVIDIA Aorus GeForce, 8GB GDDR6 - GV-N3070AORUS M-8GD",
     "manufacturer": "NVIDIA",
     "assembler": "GIGABYTE",
     "model": "AORUS MASTER",
@@ -40,7 +40,7 @@
   {
     "id": 4,
     "type" : "GPU",
-    "name": "RTX 3070 TI",
+    "name": "Placa de Video RTX 3070 Ti UPRISING Triple Fan PNY NVIDIA GeForce, 8 GB GDDR6X, DLSS, Ray Tracing - VCG3071T8TFMPB",
     "manufacturer": "NVIDIA",
     "assembler": "PNY",
     "model": "TRIPLE FAN",
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "type" : "GPU",
-    "name": "RTX 3080 TRINITY",
+    "name": "Placa de Vídeo RTX 3080 Trinity Zotac Gaming NVIDIA GeForce, 12GB GDDR6X, LHR, RGB, DLSS, Ray Tracing - ZT-A30820D-10PLHR",
     "manufacturer": "NVIDIA",
     "assembler": "ZOTAC",
     "model": "TRINITY",
@@ -60,7 +60,7 @@
   {
     "id": 6,
     "type" : "GPU",
-    "name": "RTX 3080 TI",
+    "name": "Placa de Vídeo Gainward NVIDIA GeForce RTX 3080 TI Phoenix G6X, 12GB, 384 Bits",
     "manufacturer": "NVIDIA",
     "assembler": "GAINWARD",
     "model": "PHOENIX",
@@ -80,17 +80,17 @@
   {
     "id": 8,
     "type" : "GPU",
-    "name": "RTX 3090 TI",
+    "name": "Placa de Vídeo Galax NVIDIA GeForce RTX 3090 TI EX Gamer, 24GB GDDR6X, 384 Bits - 39IXM5MD6HEX",
     "manufacturer": "Nvidia",
     "assembler": "GALAX",
     "model": "EX GAMER",
     "img": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/359038/Placa-de-V-deo-Galax-NVIDIA-GeForce-RTX-3090-TI-EX-Gamer-24GB-GDDR6X-384-Bits-39IXM5MD6HEX_1688696295_m.jpg",
-    "price" : "R$"
+    "price" : "R$ 14.990,00"
   },
   {
     "id": 9,
     "type" : "GPU",
-    "name": "RTX 4060 TI",
+    "name": "Placa de Vídeo RTX 4060 Ti VENTUS 3X 8G OC MSI NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing",
     "manufacturer": "Nvidia",
     "assembler": "MSI",
     "model": "VENTUS",
@@ -100,7 +100,7 @@
   {
     "id": 10,
     "type" : "GPU",
-    "name": "RTX 4070 TI",
+    "name": "Placa de Vídeo RTX 4070 Ti XLR8 Gaming Verto TF OC PNY NVIDIA GeForce, 12GB GDDR6X, DLSS 3, Ray Tracing - VCG4070T12TFXXPB1-O",
     "manufacturer": "Nvidia",
     "assembler": "PNY",
     "model": "GAMING VERTO EPIC",
@@ -110,7 +110,7 @@
   {
     "id": 11,
     "type" : "GPU",
-    "name": "RTX 4080",
+    "name": "Placa de Vídeo RTX 4080 Gaming X Trio MSI NVIDIA GeForce, 16 GB GDDR6X, DLSS, Ray Tracing - GeForce RTX 4080 16GB GAMING X TRIO",
     "manufacturer": "Nvidia",
     "assembler": "MSI",
     "model": "GAMING X TRIO",
@@ -120,7 +120,7 @@
   {
     "id": 12,
     "type" : "GPU",
-    "name": "RTX 4090",
+    "name": "Placa de Vídeo RTX 4090 Asus NVIDIA ROG Strix, 24 GB GDDR6X, ARGB, DLSS, Ray Tracing - ROG-STRIX-RTX4090-O24G-GAMING",
     "manufacturer": "Nvidia",
     "assembler": "ASUS",
     "model": "ROG STRIX",
